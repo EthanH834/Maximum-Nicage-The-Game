@@ -1,4 +1,4 @@
 # Maximum Niceage: The Game
-v1.0
+v1.1
 
 Run .exe file to play game
